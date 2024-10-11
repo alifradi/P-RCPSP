@@ -1,2 +1,6 @@
 # P-RCPSP
-Multi-project Scheduling Problem with Limited Preemption and Ordinary Feeding Precedence Relations
+[Multi-project Scheduling Problem with Limited Preemption and Ordinary Feeding Precedence Relations](https://link.springer.com/chapter/10.1007/978-3-031-71645-4_36)
+
+Many companies operating in an Engineering-to-Order environment are under constant pressure to manage the complexity of production planning. This paper deals with the case study of a company offering highly customized products that are modular buildings. To support tactical production planning and capacity allocation, this paper formulates the production planning problem as a Preemptive Resource Constrained Multi-project Scheduling Problem and proposes two mathematical formulations to solve it. The first presented formulation performs preemption using continuous activity splitting whilst the second permits discontinuous energy distribution. With the presented formulations we aimed to curtail resultant makespans and delays of all set projects. Resource capacities are defined as accumulated weekly working hours of available and similar skills. We evaluated the performance of the proposed formulations, in terms of solving time and makespan, using three real-world datasets. Our findings indicate that the formulation using discontinuous energy allocation outperforms the formulation offering more control on the sub-activities.
+
+
